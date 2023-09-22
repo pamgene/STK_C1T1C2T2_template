@@ -2,7 +2,7 @@
   "kind": "Workflow",
   "id": "8363045522f1caa2268138b6ba8dd59c",
   "isDeleted": false,
-  "rev": "5-0af3d93a52d417492475a15e74f4e07b",
+  "rev": "6-db3528e4d7bd05f331fe8e796393d312",
   "description": "STK workflow with two controls and two treatments",
   "name": "STK_C1T1C2T2_template",
   "createdBy": "dschuller",
@@ -17,7 +17,7 @@
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2023-09-15T12:11:32.619216Z"
+    "value": "2023-09-22T07:16:26.173098Z"
   },
   "urls": [
     {
@@ -27965,7 +27965,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -27985,7 +27985,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -28042,7 +28042,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -28562,7 +28562,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -28582,7 +28582,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -28639,7 +28639,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -29159,7 +29159,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -29179,7 +29179,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -29236,7 +29236,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -29756,7 +29756,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -29776,7 +29776,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -29833,7 +29833,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -30353,7 +30353,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -30373,7 +30373,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -30430,7 +30430,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -30950,7 +30950,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -30970,7 +30970,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -31027,7 +31027,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -31547,7 +31547,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -31567,7 +31567,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -31624,7 +31624,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -32144,7 +32144,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 6
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -32164,7 +32164,7 @@
               {
                 "kind": "PropertyValue",
                 "name": "Kinase_family",
-                "value": "PTK"
+                "value": "STK"
               },
               {
                 "kind": "PropertyValue",
@@ -32221,7 +32221,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 173
+          "nRows": 1
         },
         "taskId": ""
       },
@@ -32453,7 +32453,7 @@
   ],
   "offset": {
     "kind": "Point",
-    "x": -106.0,
-    "y": 166.0
+    "x": -112.0,
+    "y": 123.0
   }
 }
