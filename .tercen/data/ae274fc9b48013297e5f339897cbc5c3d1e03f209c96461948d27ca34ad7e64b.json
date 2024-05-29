@@ -1,0 +1,113 @@
+{
+ "kind": "CubeQueryTableSchema",
+ "id": "ae274fc9b48013297e5f339897cbc5c3d1e03f209c96461948d27ca34ad7e64b",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "row",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "ETS.ds1..ID.size_in_bytes",
+   "value": "3120"
+  },
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "ae274fc9b48013297e5f339897cbc5c3d1e03f209c96461948d27ca34ad7e64b"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 142,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "4dcbebdc-4374-4a3c-b9c6-2fe6f410485d",
+   "name": "ETS.ds1..ID",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/ae/27/ae274fc9b48013297e5f339897cbc5c3d1e03f209c96461948d27ca34ad7e64b",
+ "relation": {
+  "kind": "Relation",
+  "id": "a7bce5f5-259a-4b2b-8982-594798b385eb"
+ },
+ "queryHash": "8afbc9a39a4ab755e12a2d2f2edf34c9",
+ "queryTableType": "row",
+ "query": {
+  "kind": "CubeQuery",
+  "relation": {
+   "kind": "Relation",
+   "id": "3f320ab2-fa24-4449-8ffe-1ebfaeecef19"
+  },
+  "colColumns": [],
+  "rowColumns": [],
+  "axisQueries": [],
+  "filters": {
+   "kind": "Filters",
+   "removeNaN": true,
+   "namedFilters": []
+  },
+  "operatorSettings": {
+   "kind": "OperatorSettings",
+   "namespace": "",
+   "operatorRef": {
+    "kind": "OperatorRef",
+    "name": "",
+    "version": "",
+    "operatorId": "",
+    "operatorKind": "",
+    "propertyValues": [],
+    "url": {
+     "kind": "Url",
+     "uri": ""
+    },
+    "operatorSpec": {
+     "kind": "OperatorSpec",
+     "ontologyUri": "",
+     "ontologyVersion": "",
+     "inputSpecs": [],
+     "outputSpecs": []
+    }
+   },
+   "environment": [],
+   "operatorModel": {
+    "kind": "OperatorModel"
+   }
+  },
+  "qtHash": "",
+  "columnHash": "",
+  "rowHash": ""
+ }
+}
